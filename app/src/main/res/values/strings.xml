@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App_Notificacoes</string>
+    <string name="definirTempo">Definir tempo para uma notificação</string>
+    <string name="intervalo">Intervalo (min)</string>
+    <string name="programar">Programar</string>
+    <string name="enviarNotificacao">Enviar notificação</string>
+    <string name="enviar">Enviar</string>
+</resources>
